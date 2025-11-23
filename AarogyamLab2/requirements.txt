@@ -1,0 +1,11 @@
+streamlit
+firebase-admin
+requests
+reportlab
+pandas
+numpy
+matplotlib
+qrcode
+PyMuPDF
+num2words
+python-dotenv
